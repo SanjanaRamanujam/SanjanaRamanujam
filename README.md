@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjanaRamanujam
-- 👀 I’m interested in Full Stack Developing
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning BE.ECE.,
 
 <!---
