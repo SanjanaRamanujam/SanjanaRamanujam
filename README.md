@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SanjanaRamanujam
-- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning BE.ECE.,
 
 <!---
